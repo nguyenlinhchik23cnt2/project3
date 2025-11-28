@@ -1,43 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82316547-b6b5-41a9-a112-1e31985cb5ae" name="Changes" comment="" />
+    <list default="true" id="82316547-b6b5-41a9-a112-1e31985cb5ae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson05/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson05/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson05/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson05/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson05/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson05/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson05/src/main/java/k23cnt2_nlclesson05/k23cnt2_nlclesson05/K23cnt2Nlclesson05Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson05/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson05/src/test/java/k23cnt2_nlclesson05/k23cnt2_nlclesson05/K23cnt2Nlclesson05ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson06/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson06/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson06/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson06/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson06/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson06/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson06/src/main/java/k23cnt2_nlclesson06/k23cnt2_nlclesson06/K23cnt2Nlclesson06Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson06/src/main/java/k23cnt2_nlclesson06/k23cnt2_nlclesson06/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson06/src/main/java/k23cnt2_nlclesson06/k23cnt2_nlclesson06/dto/StudentDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson06/src/main/java/k23cnt2_nlclesson06/k23cnt2_nlclesson06/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson06/src/main/java/k23cnt2_nlclesson06/k23cnt2_nlclesson06/repository/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson06/src/main/java/k23cnt2_nlclesson06/k23cnt2_nlclesson06/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson06/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson06/src/main/resources/templates/Student/student-add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson06/src/main/resources/templates/Student/student-edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson06/src/main/resources/templates/Student/student-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson06/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2-nlclesson06/src/test/java/k23cnt2_nlclesson06/k23cnt2_nlclesson06/K23cnt2Nlclesson06ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2lesson03_nlc/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2lesson03_nlc/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2lesson03_nlc/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2lesson03_nlc/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2lesson03_nlc/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2lesson03_nlc/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2lesson03_nlc/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2lesson03_nlc/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2lesson03_nlc/src/main/java/com/k23cnt2lesson03_nlc/K23cnt2lesson03NlcApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2lesson03_nlc/src/main/java/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2lesson03_nlc/src/main/java/etity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2lesson03_nlc/src/main/java/service/Servicestudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2lesson03_nlc/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k23cnt2lesson03_nlc/src/test/java/com/k23cnt2lesson03_nlc/K23cnt2lesson03NlcApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01-spring-boot/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01-spring-boot/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01-spring-boot/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01-spring-boot/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01-spring-boot/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01-spring-boot/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01-spring-boot/src/main/java/com/spring/lab01_spring_boot/Lab01SpringBootApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01-spring-boot/src/main/java/pkg_default_method/Interface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01-spring-boot/src/main/java/pkg_default_method/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01-spring-boot/src/main/java/pkg_default_method/MultiInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01-spring-boot/src/main/java/pkg_default_method/Shapa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01-spring-boot/src/main/java/pkg_default_method/interface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01-spring-boot/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01-spring-boot/src/test/java/com/spring/lab01_spring_boot/Lab01SpringBootApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson01-spring-boot/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson01-spring-boot/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson01-spring-boot/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson01-spring-boot/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson01-spring-boot/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson01-spring-boot/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson01-spring-boot/src/main/java/Project03/lesson01_spring_boot/Lesson01SpringBootApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson01-spring-boot/src/main/java/lesson01_lambda_expression/SortLambaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson01-spring-boot/src/main/java/lesson01_lambda_expression/lambdaExpression1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson01-spring-boot/src/main/java/lesson01_lambda_expression/lambdaExpression2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson01-spring-boot/src/main/java/pkg_default_method/Interface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson01-spring-boot/src/main/java/pkg_default_method/Interface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson01-spring-boot/src/main/java/pkg_default_method/MultiInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson01-spring-boot/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson01-spring-boot/src/test/java/Project03/lesson01_spring_boot/Lesson01SpringBootApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson05/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson05/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson05/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson05/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson05/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson05/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson05/src/main/java/lesson05/lesson05/Lesson05Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson05/src/main/java/lesson05/lesson05/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson05/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson05/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson05/src/main/resources/templates/proflle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson05/src/test/java/lesson05/lesson05/Lesson05ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-day02-nlc/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-day02-nlc/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-day02-nlc/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-day02-nlc/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-day02-nlc/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-day02-nlc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-day02-nlc/src/main/java/k23cnt2_nlc_day02/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-day02-nlc/src/main/java/k23cnt2_nlc_day02/demo/LooselyBubbleSortAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-day02-nlc/src/main/java/k23cnt2_nlc_day02/demo/tight_loosely_coupling/LooselyCoupledService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-day02-nlc/src/main/java/k23cnt2_nlc_day02/demo/tight_loosely_coupling/SortAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-day02-nlc/src/main/java/k23cnt2_nlc_day02/demo/tight_loosely_coupling/TightCouplingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-day02-nlc/src/main/java/k23cnt2_nlc_day02/demo/tight_loosely_coupling/bubbleSortAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-day02-nlc/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-day02-nlc/src/test/java/k23cnt2_nlc_day02/demo/DemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Entity/author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Entity/book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lesson08/Lesson08Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lesson08/webconfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repository/authorrepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repository/bookrepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/Authorsevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/0f2201491c7e33c3360a01915403ddfe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/24349df90d51476b1c2fcc1b1deee7f5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/2b06b21d0c86fec7532f024381946ae5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/31b6faef1c5c7a7cfb29ff11e3c95274.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/5390e6c31bd92833f3cd69447bf311c7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/6b47148979c819d6ac3006228ad8aa8c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/73a2c4e00e91c659ddd32c5c2f82e04b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/8ab6323cbcd05e1b4f7adaa304a0ae86.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/ec531a2987587635805d619a2d45f311.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/author-create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/author-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/book-create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/book-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lesson08/Lesson08ApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="34KrvaTNNgkhS6BpkScXzzCko9T" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/project3",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/project3&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
       </set>
     </attachedChunks>
   </component>
